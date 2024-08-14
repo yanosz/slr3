@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = de.jluehr.slr3.\
+    config.SqlTestContainersSpringContextCustomizerFactory
